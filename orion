@@ -1,3 +1,20 @@
+--This script has been licensed using v2
+--            Unauthorized distribution of this script is forbidden.
+--      Any attempts at tampering, reverse engineering or modifying this script's 
+--      internal logic will result in a global ban, and make you blacklisted from
+--            every single script that has been licensed with v2
+--
+--        v2  for Roblox,  whitelisting system by v2#0001
+--                  
+--
+
+
+
+
+
+
+
+
 
 
 local UserInputService = game:GetService("UserInputService")
